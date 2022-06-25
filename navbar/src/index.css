@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    background: #1F4690;
+    padding: 20px 28px;
+}
+
+.header ul {
+    display: flex;
+}
+
+.header ul li {
+    color: white;
+    list-style: none;
+    margin-right: 16px;
+}
+
+.header ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.logo img{
+    width: 30px;
+}
+
+.logo a{
+    margin-right: 32px;
+}
